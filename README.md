@@ -1,4 +1,4 @@
-# Housing Price Prediction API (CPE393 Project)
+# Housing Price Prediction API (CPE393 Lab)
 
 This project builds and deploys a machine learning model to predict house prices using a dataset called `Housing.csv`.  
 The model is served using a Flask API and packaged inside a Docker container.
